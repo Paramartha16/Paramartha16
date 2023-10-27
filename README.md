@@ -1,4 +1,5 @@
-![banner](https://github.com/Paramartha16/Paramartha16/blob/main/banner.png)
+![banner](banner.png)
+
 
 # 💫 About Me:
 Hi, I am Paramartha Bhattacharjee<br><br>I'm currently working on... My Web Development skills and Working as Web Development Intern at CodSoft<br><br>I'm currently learning... React.js , Django, AWS and DSA!<br><br>I'm looking to collaborate on... Any Open Source Project involving Web Development!<br><br>I'm looking for help with... Competitive programming and Understanding concepts of DSA<br><br>Ask me about... HTML, CSS, Javascript and Python<br><br>How to reach me: Linkedin Profile<br><br> Fun fact: Love to play video games
