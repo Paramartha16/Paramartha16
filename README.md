@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/Paramartha16/Paramartha16/main/banner.png">
+<div align="center"> <img src="banner.png">
 
 
 # 💫 About Me:
