@@ -1,4 +1,4 @@
-![banner](banner.png)
+![logo](https://github.com/Paramartha16/Paramartha16/blob/main/banner.png)
 
 
 # 💫 About Me:
